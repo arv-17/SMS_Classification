@@ -137,5 +137,3 @@ pip install -r requirements.txt
 - Add support for multiple languages
 - Include more detailed analytics and visualizations
 - Deploy the application on Streamlit Cloud
-
-## Hosted Link: https://shiv1803-sms-classification.hf.space
